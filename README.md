@@ -1,4 +1,6 @@
 ### Hi I'm Leng Sopheaktra 👋
+### About me
+I'm a passionate developer proficient in Node.js, PHP, Laravel, and Vue.js. I specialize in building web applications and have experience with frontend technologies such as Vue.js, Tailwind CSS, Bootstrap, and various other CSS frameworks.
 Here are some ideas to get you started:
 - 🔭 I’m currently looking for job in IT feild.
 - 🌱 I’m currently learning Nestjs.
