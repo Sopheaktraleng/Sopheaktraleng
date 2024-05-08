@@ -1,20 +1,11 @@
-### Hi there 👋
-
-<!--
-**Sopheaktraleng/Sopheaktraleng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi I'm Leng Sopheaktra 👋
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- 🔭 I’m currently looking for job in IT feild.
+- 🌱 I’m currently learning Nestjs.
+- 💬 Ask me about Website development.
+- 📫 How to reach me: sopheaktraleng4@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm single.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/traa__a) 
 
